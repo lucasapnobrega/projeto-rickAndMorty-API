@@ -11,3 +11,7 @@ Desafio do WorkShop da Fábrica de Software sobre Rick e Morty.
 - Criação de um site sobre Rick and Morty usando html, css e react js. 
 - Consumir uma API do Rick and Morty e mostrar os elementos em cards.
 - Cards com as informações dos personagens e dos episódios.
+
+Informações:
+- O projeto possui uma pasta de componentes, na qual possui pastas HEADER, MAIN E FOOTER.
+- Imagens, fontes e ícone na pasta public.
