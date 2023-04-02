@@ -1,0 +1,92 @@
+/* CSS - CARDS */
+
+/* CARDS GALERIA */
+
+.cards-all {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 5rem;
+}
+
+.article-card {
+  width: 350px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #c9bb95;
+  margin: 4.5rem 1.5rem;
+  border-radius: 1.5rem;
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  transition: all .5s cubic-bezier(.22,.48,.9,.66);
+  box-shadow: 8px 4px 14px -3px rgba(0,0,0,0.75);
+}
+
+.article-card p:nth-of-type(even) {
+  color: #13a84c;
+}
+
+.article-card img {
+  border-radius: 50%;
+  width: 215px;
+}
+
+.article-card:hover {
+  transform: scale(1.1);
+}
+
+.bold-card {
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+}
+
+
+
+/* CARDS EPISÓDIOS */
+
+.content {
+  background-color: #d6d4d4cc;
+}
+
+.episodios-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.episodios-card .article-card-episodios {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 450px;
+  margin: 2.5%;
+  background-color: aliceblue;
+  transition: all .5s cubic-bezier(.22,.48,.9,.66);
+  box-shadow: 8px 4px 14px -3px rgba(0,0,0,0.75);
+  border-radius: 2rem;
+  padding: 1rem;
+}
+
+.episodios-card .article-card-episodios p {
+  margin: 1rem 0;
+  color: #3B4C68;
+}
+
+.episodios-card .article-card-episodios:hover {
+  transform: scale(1.1);
+}
+
+.title-episodios {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 5rem;
+}
+
+.green {
+  color: #13a84c;
+}
+
+

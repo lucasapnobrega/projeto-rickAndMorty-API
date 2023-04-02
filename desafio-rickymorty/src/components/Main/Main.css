@@ -1,0 +1,64 @@
+.bg-main .container {
+  text-align: center;
+  padding: 5rem 7rem; 
+}
+
+.bg-main {
+  background-color: #eee9e9;
+}
+
+.section-about h1 {
+  text-transform: uppercase;
+  margin-bottom: 3.5rem;
+  color: #160440;
+}
+
+.section-curiosidades h1{
+  text-transform: uppercase;
+  color: #160440;
+  margin: 3.5rem 0;
+}
+
+.article-curiosidades ul, .section-sobre-personagens {
+  list-style: inside;
+  padding-left: 0;
+}
+
+.article-curiosidades li, .section-sobre-personagens li {
+  margin: 2rem 0;
+  font-weight: bold;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+}
+
+.section-sobre-personagens {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3.5rem 0;
+}
+
+.article-sobre-personagens {
+  width: 45%;
+  margin: 2%;
+  background-color: #d6d4d4cc;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+.article-sobre-personagens h1 {
+  text-transform: uppercase;
+}
+
+.section-sobre-personagens .article-sobre-personagens h3 {
+  font-size: 1.3rem;
+  margin: 2rem 0;
+  color: #08C952;
+  text-decoration: underline;
+}
+
+.title-first {
+  padding-top: 150px;
+}
+  
+
+  

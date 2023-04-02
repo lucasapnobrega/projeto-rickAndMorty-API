@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+@font-face {
+  font-family: 'RM-font';
+  src: url('get_schwifty.ttf') format(truetype);
+}
+
+p {
+  line-height: 2.5;
+  font-size: 1.05rem;
+  margin-bottom: 1.8rem;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.img-total {
+  max-width: 800px;
+  margin-top: 2.5rem;
+}
+
+.title {
+  margin: 3.5rem 0;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+@media (max-width: 1200px) {
+  .img-logo {
+    width: 45%;
+  }
+
+  .img-total {
+    max-width: 700px;
+  }
+
+  .article-sobre-personagens {
+    width: 100%;
+  }
+}
+
+@media (max-width: 995px) {
+  .img-logo {
+    width: 60%;
+  }
+
+  .nav-header ul{
+    gap: 2.5rem;
+  }
+
+  .nav-header ul a {
+    font-size: 1.8rem;
+  }
+
+  .img-total {
+    max-width: 550px;
+  }
+
+  .bg-main .container {
+    padding: 4rem 5rem; 
+  }
+
+}
+
+@media (max-width: 770px) {
+  
+  .header {
+    max-height: 300px;
+    position: initial;
+  }
+
+  .title-first {
+    padding-top: 0;
+  }
+  
+  .header .container {
+    flex-direction: column;
+    padding-bottom: 2rem;
+  }
+
+  .titulo {
+    text-align: center;
+  }
+
+  .nav-header ul a {
+    font-size: 2rem;
+  }
+
+  .img-total {
+    width: 100%;
+  }
+
+  .bg-main .container {
+    padding: 4rem 3rem; 
+  }
+
+  .img-logo {
+    width: 40%;
+  }
+}
+
+@media (max-width: 430px) {
+  
+  .header {
+    max-height: 500px;
+  }
+
+  .img-logo {
+    width: 50%;
+  }
+  
+  .nav-header ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 0;
+  }
+
+  .bg-main .container {
+    padding: 4rem 3rem; 
+  }
+
+  .section-curiosidades .article-curiosidades ul{
+    padding: 0;
+  }
+
+  .section-sobre-personagens .article-sobre-personagens {
+    margin-bottom: 2.5rem;
+  }
+
+
+
+  p {
+    font-size: 0.95rem;
+    line-height: 2.2;
+  }
+
+}
