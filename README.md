@@ -12,4 +12,3 @@ Informações:
 
 O projeto possui uma pasta de componentes, na qual possui pastas HEADER, MAIN E FOOTER.
 Imagens, fontes e ícone na pasta public.
-Obs: pasta do projeto e do vídeo no branch MASTER.
