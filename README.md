@@ -1,4 +1,4 @@
-#workshop-frontend-2023.1
+#workshop-frontend-2023.1#
 Desafio do WorkShop da Fábrica de Software sobre Rick e Morty.
 
 🔨 LINGUAGENS UTILIZADAS: -HTML -CSS -JS (REACT JS)
