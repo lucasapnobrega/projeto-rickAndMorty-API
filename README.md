@@ -1,5 +1,5 @@
-# workshop-frontend-2023.1
-Desafio do WorkShop da Fábrica de Software sobre Rick e Morty.
+# Rick and Morty API
+Desafio - Rick e Morty.
 
 🔨 LINGUAGENS UTILIZADAS: 
 
