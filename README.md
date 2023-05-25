@@ -1,3 +1,3 @@
-# workshop-frontend-2023.1
+# Rick and Morty API
 
 ARQUIVOS -> BRANCH MASTER!
