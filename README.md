@@ -13,7 +13,7 @@ Desafio do WorkShop da Fábrica de Software sobre Rick e Morty.
 - Consumir uma API do Rick and Morty e mostrar os elementos em cards.
 - Cards com as informações dos personagens e dos episódios.
 
-Informações:
+🛈 INFORMAÇÕES:
 
 O projeto possui uma pasta de componentes, na qual possui pastas HEADER, MAIN E FOOTER.
 
